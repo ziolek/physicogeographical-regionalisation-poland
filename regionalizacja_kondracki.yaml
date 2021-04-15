@@ -1,0 +1,399 @@
+Niż Środkowoeuropejski:
+  Pobrzeża Południowobałtyckie:
+    Pobrzeże Szczecińskie:
+      Uznam i Wolin: []
+      Wybrzeże Trzebiatowskie: []
+      Równina Wkrzańska: []
+      Dolina Dolnej Odry: []
+      Równina Goleniowska: []
+      Wzniesienia Szczecińskie: []
+      Wzgórza Bukowe: []
+      Równina Wełtyńska: []
+      Równina Pyrzycko-Stargardzka: []
+      Równina Nowogardzka: []
+      Równina Gryficka: []
+    Pobrzeże Koszalińskie:
+      Wybrzeże Słowińskie: []
+      Równina Białogardzka: []
+      Równina Słupska: []
+      Wysoczyzna Damnicka: []
+      Wysoczyzna Żarnowiecka: []
+      Pradolina Redy-Łeby: []
+    Pobrzeże Gdańskie:
+      Pobrzeże Kaszubskie: []
+      Mierzeja Helska: []
+      Mierzeja Wiślana: []
+      Żuławy Wiślane: []
+      Wysoczyzna Elbląska: []
+      Równina Warmińska: []
+      Wybrzeże Staropruskie: []
+  Pojezierza Południowobałtyckie:
+    Pojezierze Zachodniopomorskie:
+      Pojezierze Myśliborskie: []
+      Pojezierze Choszczeńskie: []
+      Pojezierze Ińskie: []
+      Wysoczyzna Łobeska: []
+      Pojezierze Drawskie: []
+      Wysoczyzna Polanowska: []
+      Pojezierze Bytowskie: []
+    Pojezierze Wschodniopomorskie:
+      Pojezierze Kaszubskie: []
+      Pojezierze Starogardzkie: []
+    Pojezierze Południowopomorskie:
+      Równina Gorzowska: []
+      Pojezierze Dobiegniewskie: []
+      Równina Drawska: []
+      Pojezierze Wałeckie: []
+      Równina Wałecka: []
+      Pojezierze Szczecineckie: []
+      Równina Charzykowska: []
+      Dolina Gwdy: []
+      Pojezierze Krajeńskie: []
+      Bory Tucholskie: []
+      Dolina Brdy: []
+      Wysoczyzna Świecka: []
+    Dolina Dolnej Wisły:
+      Dolina Kwidzyńska: []
+      Kotlina Grudziądzka: []
+      Dolina Fordońska: []
+    Pojezierze Iławskie: []
+    Pojezierze Chełmińsko-Dobrzyńskie:
+      Pojezierze Chełmińskie: []
+      Pojezierze Brodnickie: []
+      Dolina Drwęcy: []
+      Pojezierze Dobrzyńskie: []
+      Garb Lubawski: []
+      Równina Urszulewska: []
+    Pradolina Toruńsko-Eberswaldzka:
+      Kotlina Freienwaldzka: []
+      Kotlina Gorzowska: []
+      Dolina Środkowej Noteci: []
+      Kotlina Toruńska: []
+      Kotlina Płocka: []
+    Pojezierze Lubuskie:
+      Lubuski Przełom Odry: []
+      Pojezierze Łagowskie: []
+      Równina Torzymska: []
+      Bruzda Zbąszyńska: []
+    Pojezierze Wielkopolskie:
+      Pojezierze Poznańskie: []
+      Poznański Przełom Warty: []
+      Pojezierze Chodzieskie: []
+      Pojezierze Gnieźnieńskie: []
+      Równina Inowrocławska: []
+      Równina Wrzesińska: []
+      Pojezierze Kujawskie: []
+    Pradolina Warciańsko-Odrzańska:
+      Dolina Środkowej Odry: []
+      Kotlina Kargowska: []
+      Dolina Środkowej Obry: []
+      Kotlina Śremska: []
+    Wzniesienia Zielonogórskie:
+      Wzniesienia Gubińskie: []
+      Dolina Dolnego Bobru: []
+      Wysoczyzna Czerwieńska: []
+      Wał Zielonogórski: []
+    Pojezierze Leszczyńskie:
+      Pojezierze Sławskie: []
+      Pojezierze Krzywińskie: []
+      Równina Kościańska: []
+      Wał Żerkowski: []
+  Niziny Sasko-Łużyckie:
+    Obniżenie Dolnołużyckie:
+      Kotlina Zasiecka: []
+    Wzniesienia Łużyckie:
+      Wał Mużakowski: []
+    Nizina Śląsko-Łużycka:
+      Bory Dolnośląskie: []
+      Równina Szprotawska: []
+      Wysoczyzna Lubińska: []
+      Równina Legnicka: []
+      Równina Chojnowska: []
+  Niziny Środkowopolskie:
+    Nizina Południowowielkopolska:
+      Wysoczyzna Leszczyńska: []
+      Wysoczyzna Kaliska: []
+      Dolina Konińska: []
+      Kotlina Kolska: []
+      Wysoczyzna Kłodawska: []
+      Równina Rychwalska: []
+      Wysoczyzna Turecka: []
+      Kotlina Sieradzka: []
+      Wysoczyzna Łaska: []
+      Kotlina Grabowska: []
+      Wysoczyzna Złoczewska: []
+      Kotlina Szczercowska: []
+      Wysoczyzna Wieruszowska: []
+    Obniżenie Milicko-Głogowskie:
+      Obniżenie Nowosolskie: []
+      Pradolina Głogowska: []
+      Kotlina Żmigrodzka: []
+      Kotlina Milicka: []
+    Wał Trzebnicki:
+      Wzniesienia Żarskie: []
+      Wzgórza Dalkowskie: []
+      Obniżenie Ścinawskie: []
+      Wzgórza Trzebnickie: []
+      Wzgórza Twardogórskie: []
+      Wzgórza Ostrzeszowskie: []
+    Nizina Śląska:
+      Wysoczyzna Rościsławska: []
+      Pradolina Wrocławska: []
+      Równina Wrocławska: []
+      Dolina Nysy Kłodzkiej: []
+      Równina Niemodlińska: []
+      Równina Oleśnicka: []
+      Równina Opolska: []
+      Płaskowyż Głubczycki: []
+      Kotlina Raciborska: []
+    Nizina Północnomazowiecka:
+      Wysoczyzna Płońska: []
+      Równina Raciąska: []
+      Wzniesienia Mławskie: []
+      Wysoczyzna Ciechanowska: []
+      Równina Kurpiowska: []
+      Dolina Dolnej Narwi: []
+      Międzyrzecze Łomżyńskie: []
+    Nizina Środkowomazowiecka:
+      Równina Kutnowska: []
+      Równina Łowicko-Błońska: []
+      Kotlina Warszawska: []
+      Dolina Dolnego Bugu: []
+      Dolina Środkowej Wisły: []
+      Równina Warszawska: []
+      Równina Kozienicka: []
+      Równina Wołomińska: []
+      Równina Garwolińska: []
+    Wzniesienia Południowomazowieckie:
+      Wysoczyzna Bełchatowska: []
+      Wzniesienia Łódzkie: []
+      Wysoczyzna Rawska: []
+      Równina Piotrkowska: []
+      Dolina Białobrzeska: []
+      Równina Radomska: []
+    Nizina Południowopodlaska:
+      Podlaski Przełom Bugu: []
+      Wysoczyzna Kałuszyńska: []
+      Obniżenie Węgrowskie: []
+      Wysoczyzna Siedlecka: []
+      Wysoczyzna Żelechowska: []
+      Równina Łukowska: []
+      Pradolina Wieprza: []
+      Wysoczyzna Lubartowska: []
+Masyw Czeski:
+  Sudety z Przedgórzem Sudeckim:
+    Przedgórze Sudeckie:
+      Wzgórza Strzegomskie: []
+      Równina Świdnicka: []
+      Masyw Ślęży: []
+      Wzgórza Niemczańsko-Strzelińskie: []
+      Obniżenie Podsudeckie: []
+      Obniżenie Otmuchowskie: []
+      Przedgórze Paczkowskie: []
+    Pogórze Zachodniosudeckie:
+      Obniżenie Żytawsko-Zgorzeleckie: []
+      Pogórze Izerskie: []
+      Pogórze Kaczawskie: []
+      Pogórze Wałbrzyskie: []
+    Sudety Zachodnie:
+      Góry Izerskie: []
+      Góry Kaczawskie: []
+      Kotlina Jeleniogórska: []
+      Karkonosze: []
+      Rudawy Janowickie: []
+    Sudety Środkowe:
+      Brama Lubawska: []
+      Góry Wałbrzyskie: []
+      Góry Kamienne: []
+      Góry Sowie: []
+      Góry Bardzkie: []
+      Obniżenie Noworudzkie: []
+      Obniżenie Ścinawki: []
+      Góry Stołowe: []
+      Pogórze Orlickie: []
+      Góry Orlickie: []
+      Góry Bystrzyckie: []
+      Kotlina Kłodzka: []
+    Sudety Wschodnie:
+      Góry Złote: []
+      Masyw Śnieżnika: []
+      Góry Opawskie: []
+Wyżyny Polskie:
+  Wyżyna Śląsko-Krakowska:
+    Wyżyna Śląska:
+      Chełm: []
+      Garb Tarnogórski: []
+      Wyżyna Katowicka: []
+      Pagóry Jaworznickie: []
+      Płaskowyż Rybnicki: []
+    Wyżyna Woźnicko-Wieluńska:
+      Wyżyna Wieluńska: []
+      Obniżenie Liswarty: []
+      Próg Woźnicki: []
+      Próg Herbski: []
+      Obniżenie Górnej Warty: []
+      Obniżenie Krzepickie: []
+    Wyżyna Krakowsko-Częstochowska:
+      Wyżyna Częstochowska: []
+      Wyżyna Olkuska: []
+      Rów Krzeszowicki: []
+      Garb Tenczyński: []
+  Wyżyna Małopolska:
+    Wyżyna Przedborska:
+      Wzgórza Radomszczańskie: []
+      Wzgórza Opoczyńskie: []
+      Próg Lelowski: []
+      Niecka Włoszczowska: []
+      Pasmo Przedborsko-Małogoskie: []
+      Wzgórza Łopuszańskie: []
+    Niecka Nidziańska:
+      Płaskowyż Jędrzejowski: []
+      Wyżyna Miechowska: []
+      Płaskowyż Proszowicki: []
+      Garb Wodzisławski: []
+      Dolina Nidy: []
+      Niecka Solecka: []
+      Garb Pińczowski: []
+      Niecka Połaniecka: []
+    Wyżyna Kielecka:
+      Płaskowyż Suchedniowski: []
+      Garb Gielniowski: []
+      Przedgórze Iłżeckie: []
+    Góry Świętokrzyskie:
+      Wyżyna Sandomierska: []
+      Pogórze Szydłowskie: []
+  Wyżyna Lubelsko-Lwowska:
+    Wyżyna Lubelska:
+      Małopolski Przełom Wisły: []
+      Płaskowyż Nałęczowski: []
+      Równina Bełżycka: []
+      Kotlina Chodelska: []
+      Wzniesienia Urzędowskie: []
+      Płaskowyż Świdnicki: []
+      Wyniosłość Giełczewska: []
+      Działy Grabowieckie: []
+      Padół Zamojski: []
+    Roztocze:
+      Roztocze Zachodnie: []
+      Roztocze Środkowe: []
+      Roztocze Wschodnie: []
+Karpaty Zachodnie z Podkarpaciem Zachodnim i Północnym:
+  Podkarpacie Północne:
+    Kotlina Ostrawska:
+      Wysoczyzna Kończycka: []
+    Kotlina Oświęcimska:
+      Równina Pszczyńska: []
+      Dolina Górnej Wisły: []
+      Podgórze Wilamowickie: []
+    Brama Krakowska:
+      Rów Skawiński: []
+      Obniżenie Cholerzyńskie: []
+      Pomost Krakowski: []
+    Kotlina Sandomierska:
+      Nizina Nadwiślańska: []
+      Podgórze Bocheńskie: []
+      Płaskowyż Tarnowski: []
+      Dolina Dolnej Wisłoki: []
+      Równina Tarnobrzeska: []
+      Dolina Dolnego Sanu: []
+      Równina Biłgorajska: []
+      Płaskowyż Kolbuszowski: []
+      Płaskowyż Tarnogrodzki: []
+      Pradolina Podkarpacka: []
+      Podgórze Rzeszowskie: []
+  Zewnętrzne Karpaty Zachodnie:
+    Pogórze Zachodniobeskidzkie:
+      Pogórze Śląskie: []
+      Pogórze Wielickie: []
+      Pogórze Wiśnickie: []
+    Beskidy Zachodnie:
+      Beskid Śląski: []
+      Kotlina Żywiecka: []
+      Beskid Mały: []
+      Beskid Makowski: []
+      Beskid Wyspowy: []
+      Kotlina Rabczańska: []
+      Beskid Żywiecki: []
+      Gorce: []
+      Kotlina Sądecka: []
+      Beskid Sądecki: []
+    Pogórze Środkowobeskidzkie:
+      Pogórze Rożnowskie: []
+      Pogórze Ciężkowickie: []
+      Pogórze Strzyżowskie: []
+      Pogórze Dynowskie: []
+      Pogórze Przemyskie: []
+      Obniżenie Gorlickie: []
+      Kotlina Jasielsko-Krośnieńska: []
+      Pogórze Jasielskie: []
+      Pogórze Bukowskie: []
+    Beskidy Środkowe:
+      Beskid Niski: []
+  Centralne Karpaty Zachodnie:
+    Obniżenie Orawsko-Podhalańskie:
+      Kotlina Orawsko-Nowotarska: []
+      Pieniny: []
+      Pogórze Spisko-Gubałowskie: []
+      Rów Podtatrzański: []
+    Łańcuch Tatrzański:
+      Tatry Zachodnie: []
+      Tatry Wschodnie: []
+Karpaty Wschodnie z Podkarpaciem Wschodnim:
+  Podkarpacie Wschodnie:
+    Płaskowyż Sańsko-Dniestrzański:
+      Płaskowyż Chyrowski: []
+  Zewnętrzne Karpaty Wschodnie:
+    Beskidy Lesiste:
+      Góry Sanocko-Turczańskie: []
+      Bieszczady Zachodnie: []
+Niż Wschodniobałtycko-Białoruski:
+  Pobrzeża Wschodniobałtyckie:
+    Nizina Staropruska:
+      Wzniesienia Górowskie: []
+      Równina Ornecka: []
+      Nizina Sępopolska: []
+  Pojezierza Wschodniobałtyckie:
+    Pojezierze Litewskie:
+      Puszcza Romincka: []
+      Pojezierze Zachodniosuwalskie: []
+      Pojezierze Wschodniosuwalskie: []
+      Równina Augustowska: []
+    Pojezierze Mazurskie:
+      Pojezierze Olsztyńskie: []
+      Pojezierze Mrągowskie: []
+      Kraina Wielkich Jezior Mazurskich: []
+      Kraina Węgorapy: []
+      Wzgórza Szeskie: []
+      Pojezierze Ełckie: []
+      Równina Mazurska: []
+  Wysoczyzny Podlasko-Białoruskie:
+    Nizina Północnopodlaska:
+      Wysoczyzna Kolneńska: []
+      Kotlina Biebrzańska: []
+      Wysoczyzna Białostocka: []
+      Wzgórza Sokólskie: []
+      Wysoczyzna Wysokomazowiecka: []
+      Dolina Górnej Narwi: []
+      Równina Bielska: []
+      Wysoczyzna Drohiczyńska: []
+  Polesie:
+    Polesie Zachodnie:
+      Zaklęsłość Łomaska: []
+      Równina Kodeńska: []
+      Równina Parczewska: []
+      Zaklęsłość Sosnowicka: []
+      Garb Włodawski: []
+      Równina Łęczyńsko-Włodawska: []
+      Polesie Brzeskie: []
+    Polesie Wołyńskie:
+      Obniżenie Dorohuckie: []
+      Pagóry Chełmskie: []
+      Obniżenie Dubieńskie: []
+Wyżyny Ukraińskie:
+  Wyżyna Wołyńsko-Podolska:
+    Wyżyna Wołyńska:
+      Grzęda Horodelska: []
+      Kotlina Hrubieszowska: []
+      Grzęda Sokalska: []
+    Kotlina Pobuża:
+      Równina Bełska: []
